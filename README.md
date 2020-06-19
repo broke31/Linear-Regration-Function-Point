@@ -1,4 +1,4 @@
-# Linear-Regration-Function-Point
+# Linear-Regression-Function-Point
 
 ## Dataset
 
